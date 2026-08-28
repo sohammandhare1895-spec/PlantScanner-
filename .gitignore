@@ -1,0 +1,29 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies (if any in future)
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Backup files
+*.bak
+*.tmp
